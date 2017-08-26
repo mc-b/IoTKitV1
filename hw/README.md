@@ -23,7 +23,7 @@ Entstanden ist der Shield durch die Kombination einzelner Shields (z.B. Erweiter
 Der Shield verfügt über einen Stromanschluss wo ein Netzteil mit max. 12 Volt Gleichstrom angeschlossen werden kann. Empfohlen wird ein Netzteil mit 9 Volt.
 
 * Schaltplan [Seite 1](IoTKit_Schaltplan1.pdf) und [Seite 2](IoTKit_Schaltplan2.pdf)
-* Eagle Dateien [Layout](IOTKit_ch_open_V1.brd), [Schaltplan](IOTKit_ch_open_V1.sch)
+* Eagle Dateien [Layout](IoTKit_V1.brd), [Schaltplan](IoTKit_V1.sch)
 
 ## Board
 
