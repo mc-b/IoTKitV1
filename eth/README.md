@@ -6,4 +6,4 @@ Ethernet ist eine Technologie, die Software (Protokolle usw.) und Hardware (Kabe
 ### Beispiele
 
 * [Ethernet Anbindung](Ethernet/)
-* [NTP - Zeit setzen via Internet](NTPV2/)
+* [NTP - Zeit setzen via Internet](NTP/)
