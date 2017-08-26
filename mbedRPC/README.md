@@ -40,7 +40,7 @@ Zum lesen kann `http://<IP-Adresse mbed>/rpc/poti/read` verwendet werden.
 * [Einfacher Server](RPCHTTPServerSimple/)
 * [Aufruf Funktion](RPCHTTPServerFunction/)
 * [Implementierung mittels Variable](RPCHTTPServerVariable/)
-* [Smart Home Implementierung](RPCHTTPServerSmartHomeV2/)
-* [Kitchen Helper Implementierung](RPCHTTPServerKitchenHelperV2/)
+* [Smart Home Implementierung](https://developer.mbed.org/teams/ch-open-wstage2015/wiki/SmartHome)
+* [Kitchen Helper Implementierung](RPCHTTPServerKitchenHelper/)
 * [Implementierung via Serieller Schnittstelle](RPCHTTPServerVariableSerial/)
 
