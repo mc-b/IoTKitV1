@@ -136,8 +136,7 @@ Die [Ethernet Library](http://developer.mbed.org/users/mbed_official/code/Ethern
 
 ### Beispiele (mbed OS V2.x - ca. V5.3)
 
-* [TCP Socket](TCPSocket_HelloWorld/)
-* TCP Socket [Server](TCPEchoServer/) und [Client](TCPEchoClient/)
+* TCP Socket [Server](TCPEchoServer/) und [Client](https://developer.mbed.org/compiler/#import:/users/mbed_official/code/TCPEchoClient//)
 * [UDP Socket](UDPSocket_HelloWorld/)
 * UCP Socket [Server](UDPEchoServer/) und [Client](UDPEchoClient/)
 * UDP Broadcast [Empfangen](BroadcastReceive/) und [Senden](BroadcastSend/)

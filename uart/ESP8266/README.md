@@ -19,6 +19,10 @@ Weitere nützliche Informationen zum ESP8266 sind in diesem [Blog](https://orxor
 
 Wenn das Modem nicht reagiert, Board 5 - 10 Sekunden vom USB und Strom trennen.
 
+### Programm
+
+* [mbed Compiler](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/ESP8266/)
+
 ### WLAN Modem Konfiguration (UART)
 
 Zum Konfigurieren eignet sich am Besten der PL2303HX Converter USB To RS232 TTL der wie folgt mit dem Modem zu verbinden ist:

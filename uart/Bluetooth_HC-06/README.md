@@ -29,6 +29,11 @@ Anschliessend ist die Android APP Blue Term zu installieren, die APP zu starten 
 
 Weitere Informationen zu den Modem Befehlen sind im [Bluetooth-Kochbuch](http://arduino-hannover.de/2013/07/20/bluetooth-kochbuch-fur-arduino/) zu finden.
 
+### Programm
+
+* [mbed Compiler](https://developer.mbed.org/teams/smdiotkit1ch/code/Bluetooth_HC-06/)
+
+
 ### Bluetooth Modem Konfiguration (UART)
 
 Wird das Bluetooth Modem mit niedergedrückten Button an den Strom angeschlossen, schaltet es in den Konfigurationsmodus, damit Blink die LED langsamer als sonst.

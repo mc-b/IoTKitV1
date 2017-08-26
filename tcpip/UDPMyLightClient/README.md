@@ -14,6 +14,10 @@ Die Kommunikation zum Wifi WLAN Controller erfolgt via UDP - [Details](http://ww
 
 *   Schalten von Lampen und LED Strips.
 
+### Programm
+
+* [mbed Compiler](https://developer.mbed.org/teams/smdiotkit2ch/code/UDPMyLightClient/)
+
 ### Alternativen 
 
 *   [Philips Hue](http://www2.meethue.com/de-CH)
