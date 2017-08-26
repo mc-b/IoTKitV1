@@ -34,5 +34,4 @@ Die gebräuchlichsten Format sind HTML, [XML](http://de.wikipedia.org/wiki/Exten
 * [Beschreibung](HallSensorAlarm/README.md)
 * [Notfall Armband](FXOS8700QV2Alarm/)
 * [Fenstersicherung (Hall Sensor)](HallSensorAlarm/)
-* [Hausautomation und IFTTT](HouseAutomation/)
 

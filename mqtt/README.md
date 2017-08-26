@@ -45,7 +45,7 @@ Ein weiteres wichtiges Konzept sind die drei Servicequalitäten bei der Datenüb
 * [MQTT Publish](MQTTPublish/)
 * [MQTT Subcribe](MQTTSubscribe/)
 * [MQTT Publish and Subcribe](MQTTPublishSubcribe/)
-* [Kitchen Helper - MQTT Version](MQTTKitchenHelperV2/)
+* [Kitchen Helper - MQTT Version](MQTTKitchenHelper/)
 
 ### Beispiele (ab mbed OS V5.x)
 

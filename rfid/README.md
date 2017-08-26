@@ -22,6 +22,4 @@ Die Technik hinter NFC basiert auf der englisch [radio-frequency identification 
 
 ### Beispiele
 
-* [RFID Reader](RFIDReaderV2/)
-* [Inventar mit RFID](RFIDInventar/)
-* [Zutrittskontrolle mittels RFID](RFIDZutrittskontrolle/)
+* [RFID Reader](RFIDReader/)

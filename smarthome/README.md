@@ -6,11 +6,8 @@ Unter diesen Begriff fällt sowohl die Vernetzung von Haustechnik und Haushaltsg
 ### Beispiele
 
 * [CH Open Workshoptage 2015](https://developer.mbed.org/teams/ch-open-wstage2015/wiki/SmartHome)
-* [Hausautomation und IFTTT](../cloud/HouseAutomation/)
-* [Kitchen Helper - HTTP Version](../mbedRPC/RPCHTTPServerKitchenHelperV2/)
-* [Kitchen Helper - MQTT Version](../mqtt/MQTTKitchenHelperV2/)
-* [Fernseh Simulator - LED Version](../actors/FernsehSimulatorLED/)
-* [Fernseh Simulator - RGP LED Strip Version](../spi/FernsehSimulator/)
+* [Kitchen Helper - HTTP Version](../mbedRPC/RPCHTTPServerKitchenHelper/)
+* [Kitchen Helper - MQTT Version](../mqtt/MQTTKitchenHelper/)
 
 ### User Interfaces
 

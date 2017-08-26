@@ -1,7 +1,7 @@
-IoTKit V2 Server Umgebung
+IoTKit V1 Server Umgebung
 -------------------------
 
-Server Umgebung für IoTKitV2 Überblick
+Server Umgebung für IoTKitV1 Überblick
 
 Basiert auf 
 * [Vagrant](https://www.vagrantup.com/)
@@ -16,7 +16,7 @@ Obige Produkte installieren (je nach Plattform).
 
 Bash Umgebung starten und Repository clonen
 
-    git clone https://github.com/mc-b/IoTKitV2.git
+    git clone https://github.com/mc-b/IoTKitV1.git
 
 Umgebung aufsetzen
 

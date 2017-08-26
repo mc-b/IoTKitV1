@@ -14,3 +14,6 @@ Der Fotowiderstand kann nicht direkt mit einem analogen Pin verbunden werden, da
 
 *   Dämmerungsschalter
 
+### Programm
+
+* [mbed Compiler](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/LichtSensor/)

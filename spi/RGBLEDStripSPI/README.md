@@ -23,3 +23,6 @@ Auf dem Strip kommen [WS2801](http://www.adafruit.com/datasheets/WS2801.pdf) IC&
 *   Raumbeleuchtung
 *   Dekorative Ausleuchtung von Gegenständen
 
+### Programm
+
+* [mbed Compiler](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/RGBLEDStripSPI/)

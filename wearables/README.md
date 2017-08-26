@@ -25,7 +25,6 @@ nRF Connect App Printscreen
 
 ### Beispiele (IoTKit)
 
-* [Fitness Tracker](../i2c/FitnessTrackerV2/)
 * [Bluetooth mbed - Smartphone Verbindung](../uart/Bluetooth_HC-06)
 
 ### Beispiele (micro:bit)
