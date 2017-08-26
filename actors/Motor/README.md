@@ -24,7 +24,7 @@ Für Feintuning des Fahrverhaltens, Geschwindigkeitkennlinien etc. siehe [Digita
 
 ### Programm
 
-* [Motor](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/Motor/)
+* [mbed Compiler](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/Motor/)
 
 ### Links 
 
