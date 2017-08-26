@@ -23,7 +23,6 @@ Um den [CMOS-UART bzw. TTL-UART](http://de.wikipedia.org/wiki/Logikpegel) Pegel 
 
 ### Beispiele
 
-* [Serielle Schnittstelle](SerialAll/), [Serial Master](SerialMaster/), [Serial Slave](SerialSlave/)
+* [Serial Master](SerialMaster/), [Serial Slave](SerialSlave/)
 * [Bluetooth Modem HC-06](Bluetooth_HC-06/)
-* [WLAN Modem ESP8266](ESP8266/), [HTTP GET](ESP8266_HTTP_GET/)
-* 
+* [WLAN Modem ESP8266](ESP8266/)
