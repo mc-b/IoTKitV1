@@ -8,4 +8,4 @@ Mittels folgender Grundklassen kann den GPIO Pins ein Zweck vorgegeben werden:
 * [DigitalOut](DigitalOut/)
 * [DigitalIn](DigitalIn/) und [DigitalInBoard](DigitalInBoard/)
 * [AnalogIn](AnalogIn/)
-* [PwmOut](PwmOut/) und [PwmOutPeriod](PwmOutPeriod/)
+* [PwmOut](PwmOut/) und [PwmOutPeriod](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/PwmOutPeriod/)
