@@ -20,10 +20,7 @@ Das Modul mit dem Chip HC-06 kann nur als Slave arbeiten. Das heisst es kann nic
 
 Zum Testen eignet sich die Android APP [Blue Term.](https://play.google.com/store/apps/details?id=es.pymasde.blueterm&hl=de)
 
-Das Bluetooth Modul kann u.a. wie folgt angeschlossen werden:
-
-*   Einstecken auf dem FRDM-K64F vorgesehenen Bluetooth Stecker.
-*   Verbinden der Stecker (oben) mit dem Serial Stecker (obere zwei Pin&#039;s). Das Modem ist mit den Pin D0 und D1 (USBTX, USBRX))) verbunden.
+Das Bluetooth Modul wird direkt auf dem [FRDM-K64F Board](https://developer.mbed.org/platforms/FRDM-K64F/#component-pinout) am Bluetooth Stecker angeschlossen. Die Pins sind PTC15, PTC14.
 
 Anschliessend ist die Android APP Blue Term zu installieren, die APP zu starten und mit dem HC-06 Modul zu verbinden. Der Pin Code ist 1234\. Durch drücken einer der Tasten qwert erscheint eine Meldung in der Blue Term APP.
 
@@ -73,4 +70,4 @@ AT
 AT+ROLE=1
 [OK]
 AT+INIT                        
-                        ```
+```
