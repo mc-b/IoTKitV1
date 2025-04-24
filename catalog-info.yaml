@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: IoTKitV1
+  namespace: mc-b
+  description: IoTKit V1 Beispiele und Dokumenation
+  tags:
+  - iot
+  - iotkit
+  links:
+  - url: https://github.com/mc-b/IoTKitV1
+    title: Repository
+    icon: github
+  annotations:
+    github.com/project-slug: mc-b/IoTKitV1
+    backstage.io/source-location: url:https://github.com/mc-b/IoTKitV1
+    # backstage.io/techdocs-ref: url:https://github.com/mc-b/IoTKitV1
+spec:
+  type: other
+  lifecycle: production
+  owner: group:mc-b/mc-b
