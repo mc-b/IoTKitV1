@@ -16,6 +16,6 @@ metadata:
     backstage.io/source-location: url:https://github.com/mc-b/IoTKitV1
     # backstage.io/techdocs-ref: url:https://github.com/mc-b/IoTKitV1
 spec:
-  type: other
-  lifecycle: production
+  type: education
+  lifecycle: deprecated
   owner: group:mc-b/mc-b
